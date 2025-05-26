@@ -35,7 +35,7 @@ Este proyecto tiene como objetivo analizar una base de datos de siniestros viale
 
 1. Abre los archivos de Google Colab:
 
-    Limpieza datos: [Abrir en Google Colab](LimpiezaProyectoFinal (1).ipynb)
+    Limpieza datos: [Abrir en Google Colab](LimpiezaProyectoFinal(1).ipynb)
 
     Analisis Exploratorio: [Abrir en Google Colab](AnalisisExploratorioProyectoFinal.ipynb)
 
