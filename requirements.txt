@@ -1,0 +1,9 @@
+## Tecnologías y bibliotecas utilizadas
+
+- Python 3
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Google Colab
+
